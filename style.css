@@ -94,3 +94,50 @@ body {
   border-radius: 50px;
   color: black;
 }
+
+/*
+* additional
+*/
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+.nav-item {
+  margin: 15px;
+}
+.active-p {
+  font-size: 20px;
+  color: #02ffff;
+}
+.carousel-border {
+  border: 1px solid aquamarine;
+  padding: 15px;
+}
+.faq-btn {
+  padding: 8px 8em;
+}
+footer > p > span {
+  padding: 0 20px 0 20px;
+}
+footer > p > span > a {
+  color: #fff;
+}
+.b-none {
+  border: none !important;
+}
+.table-item{
+  list-style: none;;
+}
+.pt-50 {
+  padding-top: 55px !important;
+}
